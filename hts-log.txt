@@ -1,0 +1,29 @@
+HTTrack3.49-2 launched on Thu, 24 Jul 2025 20:10:28 at https://pedidocamillagourmet.delivery
+(httrack https://pedidocamillagourmet.delivery -O /Users/guga/Desktop/camilla_site_clonado )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:11:28	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/wa.html (from https://pedidocamillagourmet.delivery/js/latest_1.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/GET.html (from https://pedidocamillagourmet.delivery/js/delivry.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/Trident/index.html (from https://pedidocamillagourmet.delivery/js/all.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J1/wa.me (from https://pedidocamillagourmet.delivery/J1/js/latest_1.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J1/GET (from https://pedidocamillagourmet.delivery/J1/js/deliveryProduto.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J1/Trident/ (from https://pedidocamillagourmet.delivery/J1/js/all.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J16/wa.me (from https://pedidocamillagourmet.delivery/J16/js/latest_1.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J16/GET (from https://pedidocamillagourmet.delivery/J16/js/deliveryProduto.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J16/Trident/ (from https://pedidocamillagourmet.delivery/J16/js/all.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J2/wa.me (from https://pedidocamillagourmet.delivery/J2/js/latest_1.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J2/GET (from https://pedidocamillagourmet.delivery/J2/js/deliveryProduto.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J2/Trident/ (from https://pedidocamillagourmet.delivery/J2/js/all.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J3/wa.me (from https://pedidocamillagourmet.delivery/J3/js/latest_1.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J3/GET (from https://pedidocamillagourmet.delivery/J3/js/deliveryProduto.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J3/Trident/ (from https://pedidocamillagourmet.delivery/J3/js/all.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J10/wa.me (from https://pedidocamillagourmet.delivery/J10/js/latest_1.js)
+20:11:38	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J10/GET (from https://pedidocamillagourmet.delivery/J10/js/deliveryProduto.js)
+20:11:39	Error: 	"Not Found" (404) at link https://pedidocamillagourmet.delivery/J10/Trident/ (from https://pedidocamillagourmet.delivery/J10/js/all.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 11 seconds : 74 links scanned, 55 files written (13404229 bytes overall) [6611679 bytes received at 93122 bytes/sec], 10741626 bytes transferred using HTTP compression in 67 files, ratio 35%, 9.8 requests per connection
+(18 errors, 0 warnings, 0 messages)
